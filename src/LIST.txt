@@ -3,4 +3,8 @@ Jewel
 Kiran
 Kieron
 Jackson
+<<<<<<< HEAD
 POLLARD
+=======
+Samson
+>>>>>>> cbdcdef... Samson added in list
